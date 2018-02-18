@@ -1,0 +1,16 @@
+{
+  "generator-ndx": {
+    "filters": {
+      "settings": {
+        "appType": "cli",
+        "clientServer": "client",
+        "description": "scroll utilities for ndx-framework apps",
+        "client": true,
+        "appName": "ndx-scroller",
+        "gitname": "ndxbxrme",
+        "gitemail": "lewis_the_cat@hotmail.com"
+      }
+    },
+    "appname": "github"
+  }
+}

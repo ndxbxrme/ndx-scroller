@@ -1,0 +1,17 @@
+{
+  "name": "ndx-scroller",
+  "description": "scroll utilities for ndx-framework apps",
+  "main": "build/index.js",
+  "authors": [
+    "ndxbxrme"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ndxbxrme/ndx-scroller",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
